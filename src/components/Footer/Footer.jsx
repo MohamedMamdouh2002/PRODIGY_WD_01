@@ -17,15 +17,15 @@ export default function Footer() {
       <div className=" flex gap-2 justify-center py-2">
         <a target='_blank' href="https://www.facebook.com/mohamed.mamdouh.58555">
 
-        <i className='fa-brands fa-facebook-f text-black bg-slate-200 rounded-full w-8 h-8 flex justify-center items-center'></i>
+        <i className='fa-brands fa-facebook-f text-black bg-slate-200 rounded-full w-8 h-8 flex justify-center items-center hover:text-green-400 hover:border hover:border-green-400 hover:bg-transparent'></i>
         </a>
         <a target='_blank' href="https://github.com/MohamedMamdouh2002">
 
-        <i className='fa-brands fa-github text-black bg-slate-200 rounded-full w-8 h-8 flex justify-center items-center'></i>
+        <i className='fa-brands fa-github text-black bg-slate-200 rounded-full w-8 h-8 flex justify-center items-center hover:text-green-400 hover:border hover:border-green-400 hover:bg-transparent'></i>
         </a>
         <a target='_blank' href="https://www.instagram.com/mohamed.mamdouh.58555/">
 
-        <i className='fa-brands fa-instagram text-black bg-slate-200 rounded-full w-8 h-8 flex justify-center items-center'></i>
+        <i className='fa-brands fa-instagram text-black bg-slate-200 rounded-full w-8 h-8 flex justify-center items-center hover:text-green-400 hover:border hover:border-green-400 hover:bg-transparent'></i>
         </a>
       </div>
     </div>
